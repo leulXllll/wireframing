@@ -40,3 +40,13 @@
 - **Definition**: Detailed wireframes with accurate spacing, real content, and interactive elements.  
 - **Used When**: Later stages, for stakeholder reviews, usability testing, or developer handoff.  
 - **Example**: Digital mockups with actual fonts, icons, and UI components.
+
+# Popular wireframing tools
+Figma is a powerful, cloud-based design tool that allows real-time collaboration and is widely used for wireframing, UI/UX design, and prototyping.
+
+### Key Features:
+- **Real-time Collaboration**: Multiple team members can work on a design simultaneously.
+- **Vector Editing**: Offers precise control over shapes, lines, and elements.
+- **Prototyping**: Allows you to create interactive prototypes with clickable elements.
+### Why It’s Useful for Wireframing:
+- **Rapid Prototyping**: Quickly sketch layouts and iterate based on feedback.
