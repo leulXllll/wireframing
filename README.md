@@ -27,3 +27,16 @@
 - **Explanation**: Interactive elements and their behavior within the interface.
 - **Example**: A clickable "Book Now" button that triggers the checkout process.
 - **Contribution**: Demonstrates how users will interact with the system and ensures the UI meets task requirements.
+
+# Types of Wireframes
+## Low-Fidelity vs High-Fidelity Wireframes
+
+**Low-Fidelity Wireframes**  
+- **Definition**: Basic, sketch-like wireframes with simple shapes and placeholders.  
+- **Used When**: Early in the design process to brainstorm layout and user flow.  
+- **Example**: Hand-drawn or grayscale boxes representing buttons and text areas.
+
+**High-Fidelity Wireframes**  
+- **Definition**: Detailed wireframes with accurate spacing, real content, and interactive elements.  
+- **Used When**: Later stages, for stakeholder reviews, usability testing, or developer handoff.  
+- **Example**: Digital mockups with actual fonts, icons, and UI components.
